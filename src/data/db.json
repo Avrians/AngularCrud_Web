@@ -6,6 +6,20 @@
       "doj": "2025-01-21T17:00:00.000Z",
       "role": "lead",
       "salary": "898"
+    },
+    {
+      "id": "3",
+      "name": "Budi Santoso",
+      "doj": "2025-01-21T17:00:00.000Z",
+      "role": "operator",
+      "salary": "879"
+    },
+    {
+      "id": "4",
+      "name": "Kurnia",
+      "doj": "2025-01-14T17:00:00.000Z",
+      "role": "lead",
+      "salary": "897"
     }
   ]
 }

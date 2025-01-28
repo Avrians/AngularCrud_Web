@@ -11,7 +11,7 @@ export class EmployeeService {
   constructor(private http: HttpClient) {}
 
   GetAll() {
-    return this.http.get<Employee>(this.apiUrl);
+    return this.http.get<Employee[]>(this.apiUrl);
   }
   Get(empId: number) {
     return this.http.get<Employee>(this.apiUrl + '/' + empId);
